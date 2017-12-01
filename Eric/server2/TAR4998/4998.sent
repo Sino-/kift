@@ -1,0 +1,240 @@
+<s> 1 </s>
+<s> 10 </s>
+<s> 11 </s>
+<s> 12 </s>
+<s> 13 </s>
+<s> 14 </s>
+<s> 15 </s>
+<s> 16 </s>
+<s> 17 </s>
+<s> 18 </s>
+<s> 19 </s>
+<s> 2 </s>
+<s> 20 </s>
+<s> 21 </s>
+<s> 22 </s>
+<s> 23 </s>
+<s> 24 </s>
+<s> 25 </s>
+<s> 26 </s>
+<s> 27 </s>
+<s> 28 </s>
+<s> 29 </s>
+<s> 3 </s>
+<s> 30 </s>
+<s> 31 </s>
+<s> 32 </s>
+<s> 33 </s>
+<s> 34 </s>
+<s> 35 </s>
+<s> 36 </s>
+<s> 37 </s>
+<s> 38 </s>
+<s> 39 </s>
+<s> 4 </s>
+<s> 40 </s>
+<s> 41 </s>
+<s> 42 </s>
+<s> 43 </s>
+<s> 44 </s>
+<s> 45 </s>
+<s> 46 </s>
+<s> 47 </s>
+<s> 48 </s>
+<s> 49 </s>
+<s> 5 </s>
+<s> 50 </s>
+<s> 51 </s>
+<s> 52 </s>
+<s> 53 </s>
+<s> 54 </s>
+<s> 55 </s>
+<s> 56 </s>
+<s> 57 </s>
+<s> 58 </s>
+<s> 59 </s>
+<s> 6 </s>
+<s> 60 </s>
+<s> 61 </s>
+<s> 62 </s>
+<s> 63 </s>
+<s> 64 </s>
+<s> 65 </s>
+<s> 66 </s>
+<s> 67 </s>
+<s> 68 </s>
+<s> 69 </s>
+<s> 7 </s>
+<s> 70 </s>
+<s> 71 </s>
+<s> 72 </s>
+<s> 73 </s>
+<s> 74 </s>
+<s> 75 </s>
+<s> 76 </s>
+<s> 77 </s>
+<s> 78 </s>
+<s> 79 </s>
+<s> 8 </s>
+<s> 80 </s>
+<s> 81 </s>
+<s> 82 </s>
+<s> 83 </s>
+<s> 84 </s>
+<s> 85 </s>
+<s> 86 </s>
+<s> 87 </s>
+<s> 88 </s>
+<s> 89 </s>
+<s> 9 </s>
+<s> 90 </s>
+<s> 91 </s>
+<s> 92 </s>
+<s> 93 </s>
+<s> 94 </s>
+<s> 95 </s>
+<s> 96 </s>
+<s> 97 </s>
+<s> 98 </s>
+<s> 99 </s>
+<s> 100 </s>
+<s> A </s>
+<s> ALARM </s>
+<s> AGAIN </s>
+<s> AHEAD </s>
+<s> AM </s>
+<s> AN </s>
+<s> ARE </s>
+<s> AT </s>
+<s> BAD </s>
+<s> BEAM </s>
+<s> BEDTIME </s>
+<s> BILLION </s>
+<s> BRIGHTNESS </s>
+<s> CAN </s>
+<s> CHECK </s>
+<s> CLOCK </s>
+<s> CONNECTED </s>
+<s> CONTINUE </s>
+<s> CRACKING </s>
+<s> CURRENT </s>
+<s> DATE </s>
+<s> DECREASE </s>
+<s> DIRECTORY </s>
+<s> DIM </s>
+<s> DOING </s>
+<s> DOWN </s>
+<s> ENGINES </s>
+<s> EMAIL </s>
+<s> EVENTS </s>
+<s> FOR </s>
+<s> FORECAST </s>
+<s> FREMONT </s>
+<s> FROM </s>
+<s> FUNNY </s>
+<s> GOOD </s>
+<s> GOOGLE </s>
+<s> GAETAN </s>
+<s> HELLO </s>
+<s> HERE </s>
+<s> HISTORY </s>
+<s> HOW </s>
+<s> HUNDRED </s>
+<s> I </s>
+<s> IN </s>
+<s> INCREASE </s>
+<s> INSULT </s>
+<s> IS </s>
+<s> JOKE </s>
+<s> LIGHTS </s>
+<s> LONG </s>
+<s> LEVEL </s>
+<s> MAX </s>
+<s> ME </s>
+<s> MILLION </s>
+<s> MUSIC </s>
+<s> MUTE </s>
+<s> MY </s>
+<s> OFF </s>
+<s> ON </s>
+<s> OPEN </s>
+<s> PLAY </s>
+<s> PLEASE </s>
+<s> POINT </s>
+<s> PM </s>
+<s> SEARCH </s>
+<s> SEND </s>
+<s> SET </s>
+<s> SHOW </s>
+<s> SING </s>
+<s> SOUL </s>
+<s> STEAL </s>
+<s> STOP </s>
+<s> STORY </s>
+<s> TAKE </s>
+<s> TELL </s>
+<s> THE </s>
+<s> THOUSAND </s>
+<s> TIME </s>
+<s> TIMER </s>
+<s> TODAY </s>
+<s> TOMORROW </s>
+<s> TRAFFIC </s>
+<s> TURN </s>
+<s> UP </s>
+<s> VOLUME </s>
+<s> WEATHER </s>
+<s> WEB </s>
+<s> WHAT </s>
+<s> WHERE </s>
+<s> WHO </s>
+<s> YOU </s>
+<s> YOUTUBE </s>
+<s> WARP </s>
+<s> WHATS </s>
+<s> WILL </s>
+<s> WRONG </s>
+<s> SEARCH FOR </s>
+<s> HOW ARE YOU </s>
+<s> WHERE ARE YOU FROM </s>
+<s> CAN YOU TELL ME </s>
+<s> TELL ME AN INSULT </s>
+<s> SCHEDULE ME AT </s>
+<s> BEAM ME UP </s>
+<s> SHOW ME </s>
+<s> LIGHTS UP </s>
+<s> GO AHEAD </s>
+<s> LIGHTS DOWN </s>
+<s> PLAY MUSIC </s>
+<s> VOLUME UP </s>
+<s> VOLUME DOWN </s>
+<s> LOCK SCREEN </s>
+<s> WHO IS GAETAN </s>
+<s> WEATHER REPORT </s>
+<s> HOW IS THE WEATHER LIKE </s>
+<s> HOW IS THE TRAFFIC LIKE </s>
+<s> HOW LONG WILL THAT TAKE AT WARP </s>
+<s> TRAFFIC REPORT </s>
+<s> SEND EMAIL TO </s>
+<s> CHECK HISTORY </s>
+<s> CAN YOU SET AN ALARM FOR </s>
+<s> SET ALARM FOR </s>
+<s> CAN YOU SET A TIMER FOR </s>
+<s> SET TIMER FOR </s>
+<s> SET ALARM </s>
+<s> SET TIMER </s>
+<s> CAN YOU TELL ME A JOKE </s>
+<s> TELL A JOKE </s>
+<s> PREPARE THE ENGINES FOR WARP </s>
+<s> ENGAGE WHEN READY </s>
+<s> WHAT LEVEL AM I </s>
+<s> WHO IS CONNECTED </s>
+<s> WHERE AM I </s>
+<s> WHO AM I </s>
+<s> WHO ARE YOU </s>
+<s> WHAT IS OUR CURRENT BEARING </s>
+<s> WHATS UP </s>
+<s> WHATS CRACKING </s>
+<s> TELL ME A STORY </s>
+<s> TELL ME A BEDTIME STORY </s>
+<s> WHATS WRONG </s>

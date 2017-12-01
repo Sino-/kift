@@ -1,0 +1,5 @@
+make a way for the client side to keep track of the logs.
+
+open/create a file. It will also only append (dont forget to place in privlages
+
+the file will be appended with the command with the date and time pre appended 
